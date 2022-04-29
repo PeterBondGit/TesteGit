@@ -10,7 +10,10 @@ public class TestandoGit {
 		System.out.println("ana aqui");
 		System.out.println("ana aqui");
 		System.out.println("Corrigindo bug direto na master");
+		System.out.println("Corrigindo bug direto na master");
+
 	}
+	
 	
 	public void criandoOutroMetodo () {
 		System.out.println("fazendo nada");
