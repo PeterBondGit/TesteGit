@@ -4,6 +4,10 @@ public class TestandoGit {
 	private Long id;
 	private String nome;
 	private String seila;
+	private String alkjslkjs;
+	private String asdasd;
+	
+	private String ssdsdsd;
 	
 	
 	
