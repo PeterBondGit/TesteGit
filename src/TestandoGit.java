@@ -3,6 +3,8 @@ public class TestandoGit {
 	
 	private Long id;
 	private String nome;
+	private String seila;
+	
 	
 	
 	
